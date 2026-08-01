@@ -1,0 +1,49 @@
+Java Programs:
+1. Frequncy of each char from the given String? //done
+2. Frequncy of each number from the given array? //done
+3. Find duplicates from the String? //done
+4. Find the duplicate numbers from the array? //done
+5. Reverse the string and palindrame or not? //done
+6. Reverse the firstword from the String?  //done
+7. Reverse the lastword from the String?  //done
+8. Reverse the middleword from the String?  //done
+9. Reverse the half part of the String?  //done
+10. Replace 'a' with '@" from the Mahendher String? //done
+11. Given String is "Mahi123@" print separate chars, letters, numbers? //done
+12. Find out the vowels and consonents from the String? //done
+13. Take two lists {"apple", "orange", "Mango"} and {"apple", "Mango", "Kiwi"} findout duplicates from the list? //done
+14. Ascending order and Descending order for numbers? //done
+15. Print First letters of the "Mahi Ganna"? //done
+16. Prime number program? //done
+17. Star Pattern left, right and triangle? //done
+18. Find duplicate elements from the array without using collectons? //done
+19. Count the Upper and lower letters from the string? //Done
+20. Write a program to print:  //done
+1
+12  
+123  
+1234
+
+21. How to reverse an array in the subset of N? e.g. Input: [111,113,115,227,229,237,515,517,519], Output: [115,113,111,237,229,227,519,517,515].// done
+22. //str="abc@#%hgyt@#%dkdhjhk@#%kdhkdhhs k@#%dhkjdhfkhfk@#%"; 
+//WAP to get to count of times the substring @#% is repeating. //done
+23. solve the problem of printing the middle non-repeating character in a given string like:
+//String input = "switchas switches que testing"; //done
+24. Java program that takes the input string "Ravi Teja Bompally" and prints the output as R.T.Bompally:
+25. input: String s = "I Love Dogs"; output : [IL, Io, Iv, Ie, ID, Io, Ig, Is, Lo, Lv, Le, LD, Lo, Lg, Ls, ov, oe, oD, og, os, ve, vD, vo, vg, vs, eD, eo, eg, es, Do, Dg, Ds, og, os, gs] Note: Same pair should not be repeated like (oo).
+26. Finding common elements in two arrays
+String[] arr1={"one","two","five","nine","eight"};
+String[] arr2={"one","four","five","eight","ten"};
+27.Create a hash map with the below structure
+{ 'A' : 5, 'G' : {'E' : 10, 'B' : 20}, 'F' : 100, 'S' : 90 } (Note G contains hashmap as its value)
+28. Write a program to merge two array lists [a,b,c] [1,2,3]. Output should be [a,1,b,2,c,3]. Result arraylist should be of size 6.
+29. write a code to find largest of two number? Without using if condition? //done
+30. Write a Java program to convert uppercase to lowercase and vice versa (𝗘𝘅𝗮𝗺𝗽𝗹𝗲: HexAwarE → hEXaWARe). //done
+31. String[] arr1={"one","two","five","nine","eight"}; String[] arr2={"one","four","five","eight","ten"};
+// I want to print list with out duplicates  //done
+32. input array {1,4,5,6,7} output print 0th and 2nd index
+33. Print numbers from second position given String
+34. Sum of the numbers from String (zaW3r5y6L@)
+35. Given element, determine if it is present in the Fibbonacci series?
+36. Program for find A and print how many times from String //done
+37. Missing element from the array //done

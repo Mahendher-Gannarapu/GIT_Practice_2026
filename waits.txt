@@ -1,0 +1,83 @@
+implicit wait
+driver.manage().timeOuts().implicitlyWait(10,TimeUnit.SECONDS);
+
+
+Explicit Wait
+
+WebDriverWait wait = new WebDriverWait(driver,duration.ofSeconds(10));
+wait.until(expectedConditions.visibilityOfElementLocated(By.id("xyz"));
+
+
+WebDriverWait wait = new WebDriverWait(driver, duration.ofSeconds(10));
+wait.until(ExpectedConditions.invibilityOfElementLocated(By.id("")).click();
+
+Skills & Tools:
+
+
+Programming -Java (Strong hands-on), JavaScript (Intermediate)
+Automation Tools - Selenium, TestNG, Cucumber, REST Assured
+Manual Testing - Mobile App Testing (iOS, Android), Web UI Testing
+API & Performance- Postman, JMeter, REST Assured, (Basic knowledge of Locust)
+Mobile Testing Tools - Appium Inspector, Vysor, Simulators, Xcode
+Databases - SQL, Relational Databases (Querying, Updating, Deleting)
+Cloud/Hosting- SaaS-based Solution Testing, (Basic AWS knowledge is a plus)
+Methodologies - STLC, SDLC, Agile
+
+
+
+Explain Test Strategy in detail?
+A Test Strategy is a high-level document that defines the general approach and principles of testing within the organization or project. 
+It is typically created by test managers and is used across multiple projects.
+It includes:
+•	Testing objectives and quality targets
+•	Types of testing to be performed
+•	Test levels (unit, integration, system, UAT)
+•	Testing tools and standards
+•	Test design techniques
+•	Roles and responsibilities
+•	Configuration and defect management approach
+•	Test metrics and reporting
+
+===============================================================================
+today's work
+1. listen BDD framework with cucumber
+2. practice programs
+3. OOPs used in framework video/text
+4. printout some answers
+5. learn GIT version and Jenkins RUN
+
+
+
+todays work: 10-08-2025
+1. write attended Jarus interview questions
+2. Prepare "attended interview questions 2 docs"
+3. Prepare all leet programs
+4. 
+
+=============================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

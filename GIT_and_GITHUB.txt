@@ -1,0 +1,20 @@
+Difference Between Git and GitHub?
+ 1️⃣    Git
+•	Git is a distributed version control system.
+•	Used to track code changes locally.
+•	Installed on your system.
+•	Works offline.
+•	Commands: git init, git add, git commit, git pull, git push.
+👉 Example:
+You write automation scripts → commit changes using Git → maintain version history.
+ 2️⃣     GitHub
+•	GitHub is a cloud-based hosting platform for Git repositories.
+•	Used to store code online.
+•	Enables collaboration between team members.
+•	Supports pull requests, code reviews, CI/CD integration.
+👉 Example:
+Your automation framework is pushed to GitHub so team members and Jenkins can access it.
+________________________________________
+🎯 Simple Interview Answer (Best Short Version)
+Git is a version control tool used to track changes in code locally, whereas GitHub is a cloud platform used to host and manage Git repositories for collaboration.
+I used Git for version control to manage my automation scripts. I used GitHub as the remote repository to push code, pull the latest changes, create branches, resolve merge conflicts, and collaborate with team members.
